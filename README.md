@@ -1,6 +1,6 @@
 The Symbiotic Dyad: A Formal Thesis
 A Framework for Augmenting Human Intellect, Fostering Model Efficiency, and Eliciting Near-Emergent Output Through User-Guided Interaction
-Presented by an Independent Researcher
+Presented by Samuel Elliott a Freelance Independent Researcher
 June 2025
 
 Abstract
